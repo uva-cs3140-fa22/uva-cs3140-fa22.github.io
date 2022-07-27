@@ -1,4 +1,9 @@
-_site/*
-.idea/
-.sass-cache
-.bundler/
+*.gem
+.bundle/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+Gemfile.lock
+_site/
+node_modules/
+vendor/
