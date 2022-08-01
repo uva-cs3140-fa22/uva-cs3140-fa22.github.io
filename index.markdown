@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Home
-nav_order: 1
 description: "CS 3140 - Software Development Essentials"
-permalink: /
 ---
 
-# CS 3240 - Fall 2022
-## Advanced Software Development Techniques
-_aka Software Engineering_
+# CS 3140 - Fall 2022
+## Software Development Essentials
+_How I learned to stop worrying and love clean code_
 
 [Online Coursepack](http://sde-course.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
