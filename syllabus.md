@@ -148,21 +148,37 @@ You should meet the following requirements to take this class:
 
 ## Assessment and Grading
 {: .no_toc }
+{: .no_toc }
 Grading in this class will be based one:
 * Homework Assignments (7) - 60%
-* Quizzes (8) - 5%
-* Midterms (2) - 10% each
+** 8% each for Homework 1 through 6
+** 12% for Homework 7
+* Quizzes (9) - 5%
+** Must pass at least 8 quizzes
+* Midterms (2) - 20%
+** 10% each
 * Cumulative Final Exam (1) - 15%
 
 The class will have one *minor* extra credit opportunity on the final assignment. This
 will be a very difficult optional feature to add to the final assignment, and will only
-account for ~0.8% of your final grade. There will be no other extra credit opportunities
+account for ~1.0% of your final grade. There will be no other extra credit opportunities
 for any reason.
 
 ### Assignments
 {: .no_toc }
 There will be 7 homeworks assignments. These assignments will be mostly Java programming
-assignments. 
+assignments. Each assignment is independent, and doesn't require using any code you wrote
+from previous assignments. That said, homework assignments may reference previous assignments.
+
+Assignment purpose (team size limit):
+* HW1 - Thinking about design and responding to change (3 people)
+** Note that this assignment will have 3 distinct parts
+* HW2 - Testing and clean code (2 people)
+* HW3 - Refactoring and Java Streams (3 people)
+* HW4 - UML Class Diagrams, Three Tier Architecture, Testing with Mockit (2 people)
+* HW5 - JavaFX GUI (3 people)
+* HW6 - JSON Parsing and SQL with SQLite (3 people)
+* HW7 - Putting it all together (3 people)
 
 #### Assignment Teams
 {: .no_toc }
@@ -172,10 +188,12 @@ Rules on assignment teams:
 2. All team members must join that team's Github repository. All assignment work is commited, shared, and submitted via Github.
 3. Everyone on a given team gets the same grade for their assignment, **no exceptions.**
 4. Once you have added someone to your team, you cannot remove them **for any reason** for that assignment. If someone on your team hasn't contributed, you are encouraged to let the professor know, as well as not work with that person in the future.
-5. You are welcome to work alone. However, the assignment requirements will be the same, regardless of group size. Individual programmers will not be given any leniency on deadlines, grading, etc.
+5. You are welcome to work alone or with a smaller group than suggested. However, the assignment requirements will be the same, regardless of group size. Individual programmers will be held to the same expectations as groups.
+
 
 #### Late Policy
-{: .no_toc } Most assignments may be submitted up to one week late at a penalty of 7% per calendar day (note that this penalty is subtractive, meaning if you score 85%, but it is one day late, you will get 78%).
+{: .no_toc } 
+Most assignments may be submitted up to one week late at a penalty of 7% per calendar day (note that this penalty is subtractive, meaning if you score 85%, but it is one day late, you will get 78%).
 All members of an assignment team will get the same late penalty, regardless of contribution (as all members of an assignment team get the same grade on the assignment). After 7 days, submissions will be accepted at 50% off until the end of the term. However, submissions more than one week late will not be graded until the end of the term.
 
 The following assignments have different late policies:
@@ -195,6 +213,7 @@ Extensions will **never** be granted for the following reasons:
 5. The last assignment was submitted late, so you couldn't start on the current assignment on time.
 
 #### Homework collaboration policy
+{: .no_toc }
 **You should at no point see any submitted work (code, question answers, etc.) from any other team for any reason.** This simple rule is the basis of our collaboration policy. In this course, you will work with 1-2 other people on homework assignments.
 Obviously, you will be sharing code with these people over Git. Only the following people may look at your homework code for any reason:
 1. The professors
@@ -231,7 +250,7 @@ Use the following format as an example citing code you use. You may not have all
 ```
 
 #### Homework academic honesty violations
-
+{: .no_toc }
 If it is found your submission violates our policies outline above, you will receive the following penalties:
 
 **1st offense:** 0 on the assignment, plus an additional subtractive deduction to your final course grade up to 10% depending on severity.
@@ -240,6 +259,7 @@ If it is found your submission violates our policies outline above, you will rec
 Depending on severity and at instructor discretion, you may be referred to Honor Committee for any violation, including the first.
 
 ### Quizzes
+{: .no_toc }
 There will be occassional quizzes in the class which are meant to ensure basic understanding of the course lecture material.
 Quizzes will be posted on Collab, and are multiple choice. Quizzes are graded in a pass/fail way. Any score >= 80% is considered a
 passing score. Any score below 80% is considered a fail. **Quizzes can be taken as many times as needed** to achieve the target score.
@@ -253,6 +273,7 @@ Quizzes are **individual assignments**. Collaboration/working together (even wit
 If collaboration is discovered, it will result in all parties involved receiving a zero on their entire quiz grade for the course.
 
 ### Midterms
+{: .no_toc }
 There will be two non-cumulative midterms during the course.
 
 Midterm 1: Tuesday, September 29, 2022, in-class
@@ -265,6 +286,7 @@ If you know you will be absent for an exam, you must let your professor know wit
 Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. Those with extended time or other accommodations should contact your professor to discuss them during the first two weeks of the class.
 
 ### Cumulative Final Exam
+{: .no_toc }
 The course final exam is cumulative, covering all material from the semester. There will be an emphasis on material covered after Midterm 2, but all content from the course is considered "fair game."
 
 The final exams scheduled for:
@@ -283,7 +305,7 @@ Any requests for make-ups due to illness must be made through your Dean, and we 
 Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. Those with extended time or other accommodations should contact your professor to discuss them during the first two weeks of the class.
 
 ## Class Management
-
+{: .no_toc }
 ### Attendance
 {: .no_toc }
 * No attendance will be taken during the live lectures sessions on Tuesdays and Thursdays.  
@@ -333,6 +355,7 @@ In ALL cases, you need to cite all sources at the top of the file where the code
 
 
 ## Miscellaneous Policies
+{: .no_toc }
 
 ### Inclement Weather Policy
 {: .no_toc }
