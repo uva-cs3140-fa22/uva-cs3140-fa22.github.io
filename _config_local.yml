@@ -18,14 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CS 3240
-email: sherriff@virginia.edu
+title: CS 3140
+email: mcburney@virginia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  CS 3240 - Advanced Software Development Techniques - Fall 2022 at the University of Virginia
+  CS 3140 - Software Development Essentials - Fall 2022 at the University of Virginia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: marksherriff
-github_username:  marksherriff
 
 # Build settings
 theme: "just-the-docs"
@@ -37,8 +35,8 @@ logo: "/assets/images/cs3240-logo-200.png"
 
 # Aux links for the upper right navigation
 aux_links:
-  "CS 3240 Coursepack":
-    - "//www.cs3240.org"
+  "CS 3140 Coursepack":
+    - "https://sde-coursepack.github.io/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
