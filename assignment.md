@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Project Information
+title: Assignment Information
 nav_order: 4
 ---
 
-# Project Information
+# Assignment Information
 {: .no_toc }
 
 Coming Soon!
