@@ -3,6 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "CS 3140 - Software Development Essentials"
+permalink: /
 ---
 
 # CS 3140 - Fall 2022
