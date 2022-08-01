@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
 title: Schedule
-description: The weekly event schedule.
+nav_order: 3
 ---
 
-# Weekly Schedule
+# Course Schedule
+{: .no_toc }
 
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
+Coming Soon!

@@ -28,8 +28,8 @@ twitter_username: marksherriff
 github_username:  marksherriff
 
 # Build settings
-# theme: "just-the-docs"
-remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
+# remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
@@ -42,7 +42,6 @@ aux_links:
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
-
 
 search_enabled: true
 
