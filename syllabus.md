@@ -13,44 +13,44 @@ nav_order: 2
 1. TOC
 {:toc}
 
-## Basic Info
-{: .no_toc }
+# Basic Info
+
 Fall 2022 Semester   
-https://f22.cs3240.org   
+https://cs3140.com   
 
-## Lecture and Lab Sessions
-Tuesdays and Thursdays @ 9:30 AM-10:45 AM in Rice 130 w/ Prof. Mark Sherriff    
-Tuesdays and Thursdays @ 3:30 PM-4:45 PM in Rice 130 w/ Prof. Will McBurney    
+## Lecture Sections
+Tuesdays and Thursdays @ 12:30 PM-1:45 PM in Newcomb Hall Theater
+Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Newcomb Hall Theater
 
-Individual Team Meetings with TAs on Sundays or Mondays (Determined by Teams + TA) 
 
 ## Staff Information
 __Instructor:__ Prof. Will McBurney    
 Office: Rice 404  
-Office Hours: TBD      
+Office Hours:
+* Mondays 10:30 a.m. to Noon
+* Wednesdays 1:30 p.m. to 3p.m.      
 Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
 
-__Instructor:__ Prof. Mark Sherriff   
-Office: Rice 400   
+__Instructor:__ Prof. Richard Nguyen  
+Office: Rice 202   
 Office Hours: TBD  
-Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
-Website: [http://marksherriff.com](http://marksherriff.com)    
+Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)    
+Website: [https://www.cs.virginia.edu/~nn4pj/](https://www.cs.virginia.edu/~nn4pj/)    
 
 __Teaching Assistants:__ TBD  
 
-## Communication and Logistics
+# Communication and Logistics
 
-### Online Coursepack and YouTube Channel
-{: .no_toc }
+## Online Coursepack and YouTube Channel
 
 Online Coursepack @ [https://sde-coursepack.github.io/](http://sde-course.com/)
 
-There is no official textbook for the course that you need to purchase.  We are creating our own online coursepack using the video content we created during COVID, which is available at [https://www.cs3240.org](https://www.cs3240.org).  Note that we are creating this as we go along during the semester, but will do our best to stay ahead of the pace of the class.
+Youtube Playlist - coming soon.
 
-Youtube playlist is coming and will up soon.
+There is no official textbook for the course that you need to purchase.
 
-### Discord
+## Discord
 {: .no_toc }
 
 We will be using Discord for the following:
@@ -71,7 +71,7 @@ We will not be using Discord for:
 
 More information about joining our Discord server will be available in Collab at the start of the semester.
 
-### Piazza
+## Piazza
 {: .no_toc }
 
 Piazza @ [https://piazza.com/class/ksgd48h3znp1p](https://piazza.com/class/ksgd48h3znp1p)    
@@ -90,7 +90,7 @@ We will not be using Piazza for:
 * Regrades (use Gradescope first, then office hours only if not resolved)
 * Meme posting (use Discord :-) )
 
-### Email
+## Email
 {: .no_toc }
 
 We will be using email for the following:
@@ -106,8 +106,7 @@ We will not be using email for:
 
 12:30 students should email McBurney, while 2:00 students should email Nguyen.  You do not need to CC the other professor; we will get the other person involved if necessary.  _PLEASE_ make sure to put "[SDE]" at the beginning of the subject line somewhere so we can keep track of your request!  And please be patient with us in responding.  We both receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let us know that as well.
 
-### Who do I ask about...?
-{: .no_toc }
+## Where do I go for help?
 
 * Lecture chat -> Discord
 * Team meetings -> Discord
@@ -116,12 +115,12 @@ We will not be using email for:
 * Regrades -> Gradescope only
 * Personal issues -> Email your professor
 
-## Course Description
-{: .no_toc }
-Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation. Prerequisite: CS 2150 with a grade of C- or higher.
+# Course Description
 
-### Course Objectives
-{: .no_toc }   
+A first course in software engineering and software construction, this course focuses on bringing the programming concepts learned in a first course in data structures and algorithms together to begin to teach students how to build more complex systems. The course covers introductory topics in testing, software design principles, design patterns, functional programming, and data storage and manipulation. Completed CS 2100 with a C- or better.
+
+## Course Objectives
+{: .no_toc }
 Upon completion of this course students will:
 
 * coming soon
@@ -132,7 +131,7 @@ The topics to be covered in the course include:
 
 * Coming soon
 
-### Course Requirements
+## Course Requirements
 {: .no_toc }
 You should meet the following requirements to take this class:
 
@@ -146,9 +145,8 @@ You should meet the following requirements to take this class:
 5. Participate to the best of your ability in discussions in class, on Discord, or on Piazza
 6. Be a meaningful contributor to your assignment team.
 
-## Assessment and Grading
-{: .no_toc }
-{: .no_toc }
+# Assessment and Grading
+
 Grading in this class will be based one:
 * Homework Assignments (7) - 60%
 ** 8% each for Homework 1 through 6
@@ -164,8 +162,8 @@ will be a very difficult optional feature to add to the final assignment, and wi
 account for ~1.0% of your final grade. There will be no other extra credit opportunities
 for any reason.
 
-### Assignments
-{: .no_toc }
+## Homework Assignments
+
 There will be 7 homeworks assignments. These assignments will be mostly Java programming
 assignments. Each assignment is independent, and doesn't require using any code you wrote
 from previous assignments. That said, homework assignments may reference previous assignments.
@@ -180,8 +178,8 @@ Assignment purpose (team size limit):
 * HW6 - JSON Parsing and SQL with SQLite (3 people)
 * HW7 - Putting it all together (3 people)
 
-#### Assignment Teams
-{: .no_toc }
+### Assignment Teams
+
 All assignments are designed to be done collaboratively. Assignments have a cap of 2 or 3 people, depending on the assignment.
 Rules on assignment teams:
 1. You can only work with a specific person on **4 assignments** or less. You may not work with someone on 5 or more assignments.
@@ -191,8 +189,8 @@ Rules on assignment teams:
 5. You are welcome to work alone or with a smaller group than suggested. However, the assignment requirements will be the same, regardless of group size. Individual programmers will be held to the same expectations as groups.
 
 
-#### Late Policy
-{: .no_toc } 
+### Late Policy
+ 
 Most assignments may be submitted up to one week late at a penalty of 7% per calendar day (note that this penalty is subtractive, meaning if you score 85%, but it is one day late, you will get 78%).
 All members of an assignment team will get the same late penalty, regardless of contribution (as all members of an assignment team get the same grade on the assignment). After 7 days, submissions will be accepted at 50% off until the end of the term. However, submissions more than one week late will not be graded until the end of the term.
 
@@ -206,41 +204,40 @@ Generally, no extensions will be granted on assignments. This is because each as
 If there is a serious issue that requires a prolonged absence, you should contact your professor. However, because all assignments are team-oriented, and work can be shared remotely over Git, extensions are unlikely to be granted for illness.
 
 Extensions will **never** be granted for the following reasons:
-1. Workload/exams in other courses
-2. Computer issues or installation issues
-3. Office hours was busy the day the assignment was due
-4. Teammate has not participated
-5. The last assignment was submitted late, so you couldn't start on the current assignment on time.
+1. Workload/exams in other courses  
+2. Computer issues or installation issues  
+3. Office hours was busy the day the assignment was due  
+4. Teammate has not participated  
+5. The last assignment was submitted late, so you couldn't start on the current assignment on time.  
 
-#### Homework collaboration policy
-{: .no_toc }
+### Homework collaboration policy
+
 **You should at no point see any submitted work (code, question answers, etc.) from any other team for any reason.** This simple rule is the basis of our collaboration policy. In this course, you will work with 1-2 other people on homework assignments.
 Obviously, you will be sharing code with these people over Git. Only the following people may look at your homework code for any reason:
-1. The professors
-2. The TAs
-3. Your team members
+1. The professors  
+2. The TAs  
+3. Your team members  
 
 No one else should look at your code for any reason.
 
 Acceptable collaboration between teams is allowed. However, as a general rule, all collaboartion should be "pencils down". That is, if 
 you are being so specific in your discussion that you feel you need to write something down, you are probably being too specific. You can,
 however, discuss any of the following:
-* General algorithms/data structures to use for some part of the function
-* Design strategies for the assignment
-* External libraries you found helpful.
+* General algorithms/data structures to use for some part of the function  
+* Design strategies for the assignment  
+* External libraries you found helpful.  
 
 Submissions in this course will be checked using cheat detection software. If it is found that you shared code, **intentionally or unintentionally** with
 another team.
 
-#### Homework external resources policy
-{: .no_toc }
+### Homework external resources policy
 **You are allowed to use external resources** like StackOverflow, Geeksforgeeks, etc. for looking up help with **individual parts** of your assignments (such
 as how to read a JSON file in Java, etc.). However, **you may not copy large portions of external source code** from online. If
 you find you are copying more than 5 lines or so, you should stop. **All external references must be cited!** Do not "forget" to cite your
 sources. If it's found your team and another team submitted nearly identical code, and neither of you cited the external source,
 both teams will be considered to have copied from one another.
 
-#### How to Cite Code
+### How to Cite Code
 {: .no_toc }
 Use the following format as an example citing code you use. You may not have all of these fields available, but this should give you a good idea of things to look for.  Order by title of the software package.  Use the appropriate commenting format for the programming language of your source code.  Below is a genearl example of a citation format.  Does yours have to look *exactly* like this?  No, nor does it have to have all the fields.  It does have to have enough to give the proper credit and so we can find the resource if needed.
 
@@ -249,8 +246,16 @@ Use the following format as an example citing code you use. You may not have all
 //  Description: <what you used, be very specific with line numbers>
 ```
 
-#### Homework academic honesty violations
-{: .no_toc }
+If you get help from a TA or professor, you must also cite
+that in your code.
+
+```
+//  Person: Name of TA or professor - you must include a name. "A TA" is not acceptable.
+//  Description: <what you got help with, be very specific with line numbers>
+```
+
+### Homework academic honesty violations
+
 If it is found your submission violates our policies outline above, you will receive the following penalties:
 
 **1st offense:** 0 on the assignment, plus an additional subtractive deduction to your final course grade up to 10% depending on severity.
@@ -258,8 +263,8 @@ If it is found your submission violates our policies outline above, you will rec
 
 Depending on severity and at instructor discretion, you may be referred to Honor Committee for any violation, including the first.
 
-### Quizzes
-{: .no_toc }
+## Quizzes
+
 There will be occassional quizzes in the class which are meant to ensure basic understanding of the course lecture material.
 Quizzes will be posted on Collab, and are multiple choice. Quizzes are graded in a pass/fail way. Any score >= 80% is considered a
 passing score. Any score below 80% is considered a fail. **Quizzes can be taken as many times as needed** to achieve the target score.
@@ -272,7 +277,7 @@ If you pass at least 7 quizzes, you will be given 100% credit for the quiz porti
 Quizzes are **individual assignments**. Collaboration/working together (even with assignment team members for homeworks) is strictly prohibited.
 If collaboration is discovered, it will result in all parties involved receiving a zero on their entire quiz grade for the course.
 
-### Midterms
+## Midterms
 {: .no_toc }
 There will be two non-cumulative midterms during the course.
 
@@ -285,28 +290,29 @@ If you know you will be absent for an exam, you must let your professor know wit
 
 Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. Those with extended time or other accommodations should contact your professor to discuss them during the first two weeks of the class.
 
-### Cumulative Final Exam
+## Cumulative Final Exam
 {: .no_toc }
 The course final exam is cumulative, covering all material from the semester. There will be an emphasis on material covered after Midterm 2, but all content from the course is considered "fair game."
 
 The final exams scheduled for:
 
 12:30 p.m. Section (McBurney): Monday, December 12, 2-5p.m.
-03:30 p.m. Section (Nguyen): Saturday, December 10, 9a.m. to 12 noon
+02:00 p.m. Section (Nguyen): Saturday, December 8, 9a.m. to 12 noon
 
 **You must attend the section you are registered for**. If you attend the wrong final exam section, your final exam will be given a zero.
 
 UVA has strict final exam policies. As such, we cannot grant make-ups or alternative exam time without explicitly permission from and notification to a Dean. As such, we will not give a make-up exam for the following under **any circumstances**:
-1. Planned Travel (expect to be in Charlottesville during your exam time.
-2. Multiple exams within the same time period - This course is in the School of Engineering and Applied Science. As such, we do not have a "maximum number of exams within a 24-hour period policy". We cannot reschedule exams for this reason with explicit, documented accommodations.
+
+1. Planned Travel (expect to be in Charlottesville during your exam time.  
+2. Multiple exams within the same time period - This course is in the School of Engineering and Applied Science. As such, we do not have a "maximum number of exams within a 24-hour period policy". We cannot reschedule exams for this reason with explicit, documented accommodations.  
 
 Any requests for make-ups due to illness must be made through your Dean, and we cannot handle them ourselves.
 
-Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. Those with extended time or other accommodations should contact your professor to discuss them during the first two weeks of the class.
+Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. Those with extended time or other accommodations should contact your professor to discuss them during the first two weeks of the class.  
 
-## Class Management
-{: .no_toc }
-### Attendance
+# Class Management
+
+# Attendance
 {: .no_toc }
 * No attendance will be taken during the live lectures sessions on Tuesdays and Thursdays.  
 * Students are encouraged to attend the section they registered for. However, you may attend the other section's lecture occassionally as needed.
@@ -354,14 +360,14 @@ In general, we expect that you will be using code, examples, and ideas from many
 In ALL cases, you need to cite all sources at the top of the file where the code or algorithm was used AND you should note all sources in your documentation.  Failure to properly attribute your sources will result in a 50% penalty for the project at a minimum.
 
 
-## Miscellaneous Policies
+# Miscellaneous Policies
 {: .no_toc }
 
-### Inclement Weather Policy
+## Inclement Weather Policy
 {: .no_toc }
 If there is the possibility of inclement weather that could affect class, it is your responsibility to stay informed.  Information about how to sign up for email and/or text alerts from UVA Emergency Management, along with the current University status, can be found at [https://uvaemergency.virginia.edu/](https://uvaemergency.virginia.edu/).
 
-### SDAC and Other Special Circumstances
+## SDAC and Other Special Circumstances
 {: .no_toc }
 The University of Virginia strives to provide accessibility to all students. If you require an accommodation to fully access this course, please contact the Student Disability Access Center (SDAC) at 434-243-5180 or [sdac@virginia.edu](mailto:sdac@virginia.edu). If you are unsure if you require an accommodation, or to learn more about their services, you may contact the SDAC at the number above or by visiting their website at [http://studenthealth.virginia.edu/student-disability-access-center/faculty-staff](http://studenthealth.virginia.edu/student-disability-access-center/faculty-staff).
 
@@ -369,13 +375,13 @@ If you have been identified as an SDAC student, please let the SDAC know you are
 
 If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class.
 
-### Religious Accommodations
+## Religious Accommodations
 {: .no_toc }
 It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me by email as far in advance as possible. Students and instructors who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at [UVAEOCR@virginia.edu](UVAEOCR@virginia.edu) or 434-924-3200. 
 
 Accommodations do not relieve you of the responsibility for completion of any part of the coursework missed as the result of a religious observance.
 
-### Statement on Violence
+## Statement on Violence
 {: .no_toc }
 The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. To that end, it is vital that you know two values that I and the University hold as critically important:
  
