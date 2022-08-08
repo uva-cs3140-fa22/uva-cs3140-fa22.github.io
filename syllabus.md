@@ -19,8 +19,8 @@ Fall 2022 Semester
 https://cs3140.com   
 
 ## Lecture Sections
-Tuesdays and Thursdays @ 12:30 PM-1:45 PM in Newcomb Hall Theater
-Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Newcomb Hall Theater
+Section 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in Newcomb Hall Theater
+Section 002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Newcomb Hall Theater
 
 
 ## Staff Information
@@ -148,13 +148,13 @@ You should meet the following requirements to take this class:
 # Assessment and Grading
 
 Grading in this class will be based one:
-* Homework Assignments (7) - 60%
-** 8% each for Homework 1 through 6
-** 12% for Homework 7
+* Homework Assignments (7) - 60%  
+	* 8% each for Homework 1 through 6
+	* 12% for Homework 7
 * Quizzes (9) - 5%
-** Must pass at least 8 quizzes
+	* Must pass at least 8 quizzes for full credit
 * Midterms (2) - 20%
-** 10% each
+	* 10% each
 * Cumulative Final Exam (1) - 15%
 
 The class will have one *minor* extra credit opportunity on the final assignment. This
@@ -278,7 +278,7 @@ Quizzes are **individual assignments**. Collaboration/working together (even wit
 If collaboration is discovered, it will result in all parties involved receiving a zero on their entire quiz grade for the course.
 
 ## Midterms
-{: .no_toc }
+
 There will be two non-cumulative midterms during the course.
 
 Midterm 1: Tuesday, September 29, 2022, in-class
@@ -291,7 +291,7 @@ If you know you will be absent for an exam, you must let your professor know wit
 Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. Those with extended time or other accommodations should contact your professor to discuss them during the first two weeks of the class.
 
 ## Cumulative Final Exam
-{: .no_toc }
+
 The course final exam is cumulative, covering all material from the semester. There will be an emphasis on material covered after Midterm 2, but all content from the course is considered "fair game."
 
 The final exams scheduled for:
@@ -312,7 +312,7 @@ Exams are **in-person**, closed note, closed book, closed laptop, pencil and pap
 
 # Class Management
 
-# Attendance
+## Attendance
 {: .no_toc }
 * No attendance will be taken during the live lectures sessions on Tuesdays and Thursdays.  
 * Students are encouraged to attend the section they registered for. However, you may attend the other section's lecture occassionally as needed.
@@ -338,6 +338,7 @@ In this course, there will be a focus on working well together and learning abou
 Students can and will be penalized for unprofessional behavior with deductions to their final grade.
 
 ## Academic Integrity
+{: .no_toc }
 _Summary_:
 
 * Know the honor code
