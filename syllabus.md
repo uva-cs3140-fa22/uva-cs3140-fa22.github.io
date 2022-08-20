@@ -15,8 +15,20 @@ nav_order: 2
 
 # Basic Info
 
-Fall 2022 Semester   
-https://cs3140.com   
+CS 3240 - Software Development Essentials
+**SDE** for short
+
+Fall 2022 Semester  
+
+Course Logistics: 
+[https://cs3140.com](https://cs3140.com)
+
+
+Online Textbook:
+[https://sde-course.com](https://sde-course.com)
+
+Drive Folder:
+[https://drive.google.com/drive/folders/1PnTRphKY5adKNRX_XDCGI1djVgW68uwH?usp=sharing](https://drive.google.com/drive/folders/1PnTRphKY5adKNRX_XDCGI1djVgW68uwH?usp=sharing)
 
 ## Lecture Sections
 Section 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in Newcomb Hall Theater
@@ -28,8 +40,10 @@ __Instructor:__ Prof. Will McBurney
 Office: Rice 404  
 Office Hours:
 * Mondays 10:30 a.m. to Noon
-* Wednesdays 1:30 p.m. to 3p.m.      
-Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
+* Wednesdays 1:30 p.m. to 3p.m.
+
+Email: [mcburney@virginia.edu](mcburney@virginia.edu)      
+
 Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
 
 __Instructor:__ Prof. Richard Nguyen  
@@ -38,82 +52,9 @@ Office Hours: TBD
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)    
 Website: [https://www.cs.virginia.edu/~nn4pj/](https://www.cs.virginia.edu/~nn4pj/)    
 
-__Teaching Assistants:__ TBD  
+__Teaching Assistants:__ 
 
-# Communication and Logistics
-
-## Online Coursepack and YouTube Channel
-
-Online Coursepack @ [https://sde-coursepack.github.io/](http://sde-course.com/)
-
-Youtube Playlist - coming soon.
-
-There is no official textbook for the course that you need to purchase.
-
-## Discord
-{: .no_toc }
-
-We will be using Discord for the following:
-
-* Online team forming, meetings and discussions
-* In-class chat during lectures
-* Off-topic channels for general discussion
-
-We will not be using Discord for:
-
-* Office-Hours : All office-hours will be *in-person only*
-* Code debugging
-* Course questions
-* Long-form assignment questions / help (use Piazza or go to office hours)
-* Regrades (use Gradescope first, then office hours only if not resolved)
-* Direct messaging the staff about code questions, etc. (use Piazza)
-* Direct messaging the faculty about sensitive / grading issues (use Piazza or email)
-
-More information about joining our Discord server will be available in Collab at the start of the semester.
-
-## Piazza
-{: .no_toc }
-
-Piazza @ [https://piazza.com/class/ksgd48h3znp1p](https://piazza.com/class/ksgd48h3znp1p)    
-
-Think of Discord as stopping by for a quick chat, for a meeting, or for hanging out, while Piazza is for submitting significant help requests or questions.
-
-We will be using Piazza for the following:
-
-* Long-form questions about the class, code, or project (please post all code privately!)
-* Private messages for faculty or the entire staff
-* A searchable repository of common questions in the course about the project, assignments, etc.
-
-We will not be using Piazza for:
-
-* Any code debugging for *any* reason. All code related questions must be in office hours only.
-* Regrades (use Gradescope first, then office hours only if not resolved)
-* Meme posting (use Discord :-) )
-
-## Email
-{: .no_toc }
-
-We will be using email for the following:
-
-* Personal issues that can and should only be handled by a professor
-
-We will not be using email for:
-
-* Regrades (use Gradescope first, then office hours only if not resolved)
-* Tech help (use Piazza)
-* Project questions (use Piazza)
-* Guided Practice questions (use Piazza)
-
-12:30 students should email McBurney, while 2:00 students should email Nguyen.  You do not need to CC the other professor; we will get the other person involved if necessary.  _PLEASE_ make sure to put "[SDE]" at the beginning of the subject line somewhere so we can keep track of your request!  And please be patient with us in responding.  We both receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let us know that as well.
-
-## Where do I go for help?
-
-* Lecture chat -> Discord
-* Team meetings -> Discord
-* Concept questions (git, assignment clarifications, lecture topics) -> Piazza or TA office hours (NOTE: NOT professor office hours!)
-* Coding/debugging help -> Office hours
-* Regrades -> Gradescope only
-* Personal issues -> Email your professor
+*posted soon*
 
 # Course Description
 
@@ -127,7 +68,7 @@ Upon completion of this course students will:
 
 ### Course Topics
 {: .no_toc }    
-The topics to be covered in the course include:  
+The topics to be covered in the course include:
 
 * Coming soon
 
@@ -137,13 +78,160 @@ You should meet the following requirements to take this class:
 
 1. __Prerequisite: CS 2100 - C- or higher
 2. __Prerequisite knowledge: Proficiency with the Java programming language, including:
-   1. Basic java syntax around variables, functions, conditionals, and loops
-   2. Understanding of object oriented programming, including creating your own classes, polymorphism (inheritance and interfaces), the Object class
-   3. Common data structures, especially List (ArrayList and LinkedList), Map (HashMap), Set (HashSet, TreeSet)
+    1. Basic java syntax around variables, functions, conditionals, and loops
+    2. Understanding of object oriented programming, including creating your own classes, polymorphism (inheritance and interfaces), the Object class
+    3. Common data structures, especially List (ArrayList and LinkedList), Map (HashMap), Set (HashSet, TreeSet)
 3. Willing to attend and participate with in-person lectures.
 4. Start homework assignments early, and emphasize working incrementally over several days rather than cramming.
-5. Participate to the best of your ability in discussions in class, on Discord, or on Piazza
+5. Participate to the best of your ability in discussions in class, or on Piazza
 6. Be a meaningful contributor to your assignment team.
+
+
+# Resources and Logistics
+
+## Where do I go for help?
+
+* Lecture recordings -> Collab
+* Quizzes -> Collab
+* Finding a team -> In-class or Piazza
+* Concept questions -> Piazza or Office hours
+* Coding/debugging help -> Office hours
+* Regrades -> Gradescope **only**
+* Personal issues -> Email your professor
+
+## Collab
+
+Collab has links to all other course material.
+
+- Links to all other class resources
+- Announcements
+- Lecture recordings
+- Quizzes (only Quizzes - Exams are *in-person* pencil and paper)
+- Gradebook (including curved exam scores)
+
+## Course Website
+
+This is the website that you are currently on. Here you can find:
+
+- Syllabus (you're looking at it!)
+- Announcements (also posted on Collab via email distribution)
+- [Course Schedule](https://uva-cs3140-fa22.github.io/schedule.html) - if the schedule changes this is kept up to date
+- Office Hours Schedule (coming soon)
+
+The schedule and assignments information page will include links to 
+the drive folder for Lecture Notes, Slides, Assignment Write-ups,
+and Submission documents.
+
+## Drive Folder
+
+The student Drive Folder contains:
+- All Lecture Notes
+  - Slides
+  - Readings (including which readings are assigned for each lecture)
+  - Example Code
+- Up-to-date Course Schedule
+- Assignment Information
+  - Directions
+  - Submission Documents
+  - Sample input files
+
+Note that all content in the Drive Folder can be accessed via
+the Schedule page on the Course Website. 
+
+## Online Coursepack
+
+Online Coursepack @ [https://sde-coursepack.github.io/](http://sde-course.com/)
+
+There is no official textbook for the course that you need to purchase. Prof. McBurney
+is writing an "online textbook" at the URL above, which will generally be written about
+~2 weeks ahead of the course.
+
+If you would like to participate, you can clone the repository of the
+online textbook and submit pull requests:
+
+[Coursepack Github Repository](https://github.com/sde-coursepack/sde-coursepack.github.io)
+
+All assistance will be credited. I am accepting pull requests for:
+- Editing/typo/grammar fixes
+- Interesting examples/tutorials
+- Additional Source code examples 
+- Anything you would like to add to help
+
+All credit for contribution [will be included on this page](https://sde-coursepack.github.io/modules/about/about/)
+
+Assigned Readings for each Lecture are listed and linked in the
+lecture notes for that lecture on the Drive Folder. Readings are
+strongly encouraged to be completed before class.
+
+Content in the readings that are not covered directly in lecture
+are considered "fair game" for exams.
+
+## Gradescope
+
+Every homework assignment will have a document to submit. You will not submit
+any code on Gradescope (your code will be on Github). You will only
+submit PDF documents.
+
+Exams will be graded on Gradescope.
+
+All regrade requests are handled on Gradescope. Please be aware that
+if a regrade request results in a grade change, it can take up to one
+week for that change to be reflected on Collab's Gradebook, as syncing
+the Gradebook to Gradescope is a very time consuming process, and we will
+likely only do it once at the *end* of the regrade request period.
+
+Curved exams scores **will not** appear on Gradescope (Gradescope doesn't
+have a feature for this). Curved Exam Scores will be posted on Collab
+Usually within 24 hours of Raw Exam Scores being posted on Gradescope.
+
+## Piazza
+
+Piazza @ [https://piazza.com/class/ksgd48h3znp1p](https://piazza.com/class/ksgd48h3znp1p)    
+
+We will be using Piazza for the following:
+
+* Looking for teammates
+* Long-form questions about the class, code, or project (please post all code privately!)
+* Private messages for faculty or the entire staff
+* A searchable repository of common questions in the course about the project, assignments, etc.
+
+We will not be using Piazza for:
+
+* Any code debugging for *any* reason. All questions for help with your specific code must be in office hours only.
+* Regrades (use Gradescope first, then professor office hours only if not resolved)
+
+## Email
+
+We will be using email for the following:
+
+* Personal issues that can and should only be handled by a professor
+
+Your Email subject line should start with "[SDE]"
+
+We will not be using email for:
+
+* Regrades (use Gradescope)
+* Debugging/Coding help (use Office Hours)
+* Installation Help (use Piazza or Office Hours)
+* Homework Questions (use Piazza)
+
+12:30 students should email Prof. McBurney, while 
+2:00 students should email Prof. Nguyen.  
+You do not need to CC the other professor; we will get the other person 
+involved if necessary.  
+
+_PLEASE_ make sure to put "[SDE]" at the beginning of the subject line
+of all emails!  And please be patient with us in 
+responding.  We both receive A LOT of email and it's easy to get behind. 
+If there is a time-critical nature to your note, please let us know that 
+as well.
+
+Emails will generally be responded to within the next two *business* days
+(not including weekends or holidays). If you do not hear back within three
+*business* days, please email us again. It's possible your first email was
+missed, we forgot to hit *send*, etc. We are human, we will make mistakes
+in a class this large.
+
 
 # Assessment and Grading
 
@@ -168,77 +256,126 @@ There will be 7 homeworks assignments. These assignments will be mostly Java pro
 assignments. Each assignment is independent, and doesn't require using any code you wrote
 from previous assignments. That said, homework assignments may reference previous assignments.
 
-Assignment purpose (team size limit):
+Assignment purpose:
 * HW1 - Thinking about design and responding to change (3 people)
-** Note that this assignment will have 3 distinct parts
-* HW2 - Testing and clean code (2 people)
+  * Note that this assignment will have 3 distinct parts
+* HW2 - Testing and clean code 
 * HW3 - Refactoring and Java Streams (3 people)
-* HW4 - UML Class Diagrams, Three Tier Architecture, Testing with Mockit (2 people)
+* HW4 - UML Class Diagrams, Three Tier Architecture, Testing with Mockit
 * HW5 - JavaFX GUI (3 people)
 * HW6 - JSON Parsing and SQL with SQLite (3 people)
 * HW7 - Putting it all together (3 people)
 
+On most assignments, you will be given starter code to work with. This starter code
+will be automatically added to your teams GitHub Repository when you begin the assignment.
+
+All assignments are intended to take several days to complete. Starting on an assignment late
+will not earn any leniency in deadlines, grading, etc. Office Hours will become busier closer
+to deadlines, so students should start early.
+
 ### Assignment Teams
 
-All assignments are designed to be done collaboratively. Assignments have a cap of 2 or 3 people, depending on the assignment.
+All assignments are designed to be done collaboratively. Assignments have a cap of 3 people.
 Rules on assignment teams:
-1. You can only work with a specific person on **4 assignments** or less. You may not work with someone on 5 or more assignments.
-2. All team members must join that team's Github repository. All assignment work is commited, shared, and submitted via Github.
-3. Everyone on a given team gets the same grade for their assignment, **no exceptions.**
-4. Once you have added someone to your team, you cannot remove them **for any reason** for that assignment. If someone on your team hasn't contributed, you are encouraged to let the professor know, as well as not work with that person in the future.
-5. You are welcome to work alone or with a smaller group than suggested. However, the assignment requirements will be the same, regardless of group size. Individual programmers will be held to the same expectations as groups.
 
+1. You can only work with a specific person on **4 assignments** or less. You may not work with someone on 5 or more assignments.
+2. All team members must join that team's Github repository. All assignment work is committed, shared, and submitted via Github.
+3. Everyone on a given team gets the same grade for their assignment, **no exceptions.**
+4. Once you have added someone to your team, you cannot remove them **for any reason** for that assignment. 
+5. If someone on your team hasn't contributed, you are encouraged to let the professor know, as well as not work with that person in the future.
+6. You are welcome to work alone or with a smaller group than suggested. However, the assignment requirements will be the same, regardless of group size. Individual programmers will be held to the same expectations as groups.
+7. The instruction staff will not put you on a team, nor will they find a team for you. You are responsible for forming your own teams.
+
+### Advice on Homework
+
+1. It's better to have working code that implements some features than to have non-working code that attempts to implement all features
+2. Submissions that cannot be compiled or executed without crashes will not receive partial credit
+3. Start early - in a worst case you'll finish early and have more free time.
+4. Break the assignment into several individual features. 
+   1. Have different people implement each those features in separate classes/files.
+   2. Do not have one giant main-class or main-method 
+      1. This isn't sustainable for collaborative work
+      2. This makes it nearly impossible to test your code effectively
+5. Expect to spend at least half of your time testing and debugging
+   1. You will whether you plan to or not
+6. Commit early and often
+   1. Think of committing like "saving" a file. 
+   2. You should commit after each "unit of work" (wrote a function, wrote a test, fixed a bug)
+   3. You shouldn't need to push after every commit. Push when you've completed a feature!
+7. Always work in a branch, not in main.
+   1. When you want to add your code to main, merge your branch to main.
+8. Never push code directly to main. 
+9. When fixing a bug, write a test *first*
+   1. The test should fail
+   2. The bug is fixed when the test passes
+10. Never push code you haven't tested/run
+    1. Especially before the deadline!
 
 ### Late Policy
  
 Most assignments may be submitted up to one week late at a penalty of 7% per calendar day (note that this penalty is subtractive, meaning if you score 85%, but it is one day late, you will get 78%).
 All members of an assignment team will get the same late penalty, regardless of contribution (as all members of an assignment team get the same grade on the assignment). After 7 days, submissions will be accepted at 50% off until the end of the term. However, submissions more than one week late will not be graded until the end of the term.
 
-The following assignments have different late policies:
-1. Homework 1 Part A - no late submissions - Homework 1A is forming groups and having everyone add their name to the Readme on Github. It is a small portion (5%) of the final assignment grade, but ensures everyone has joined the class Github Classroom.
-2. Homework 1 Part B - no late submissions - Homework 1 part B and C are closely related. As such, Homework 1B cannot be accepted late. Homework 1B is only 15% of the homework 1 final score, and is graded largely on completing basic functionality.
-3. Homework 7 - no late submissions after the final calendar day of class - In order to ensure students have time to study for final exams, no late submissions of homework 7 (the final homework) will be accepted after the last day of class.
+Homework 7 will have a separate late policy - no late submissions after the start of final exams. 
+   1. This is in order to ensure:
+      1. TAs have time to grade the final assignment
+      2. Students have time to study for the final exam
+   2. In order to ensure students have time to study for final exams
 
-Generally, no extensions will be granted on assignments. This is because each assignment is laddered with specific course content. Additionally, assignments are generally released when the previous assignment is due, and so you should switch to focus on the new assignment.
+Generally, no extension requests will be granted on assignments. This is because each assignment is 
+laddered with specific course content. Additionally, new assignments are released when 
+the previous assignment is due, and so you should switch to focus on the new assignment.
 
-If there is a serious issue that requires a prolonged absence, you should contact your professor. However, because all assignments are team-oriented, and work can be shared remotely over Git, extensions are unlikely to be granted for illness.
+If there is a serious issue that requires a prolonged absence, you should contact your professor. 
+However, because all assignments are team-oriented, and work can be shared remotely over Git, 
+extensions are unlikely to be granted for illness.
 
-Extensions will **never** be granted for the following reasons:
-1. Workload/exams in other courses  
-2. Computer issues or installation issues  
-3. Office hours was busy the day the assignment was due  
-4. Teammate has not participated  
-5. The last assignment was submitted late, so you couldn't start on the current assignment on time.  
 
 ### Homework collaboration policy
 
-**You should at no point see any submitted work (code, question answers, etc.) from any other team for any reason.** This simple rule is the basis of our collaboration policy. In this course, you will work with 1-2 other people on homework assignments.
-Obviously, you will be sharing code with these people over Git. Only the following people may look at your homework code for any reason:
+**You should *at no point* see any submitted work (code, question answers, etc.)
+from any other team *for any reason*.** This simple rule is the basis of our 
+collaboration policy. In this course, you are encouraged to work with 1-2 other people on 
+homework assignments. Obviously, you will be sharing code with your teammates 
+over Git. *However, you should **at no point share any of your direct work** with anyone
+on any other team **for any reason.*** You may not share or publicly post **any homework, quiz, or exam content** in this course.
+
+Only the following people may look at your homework code for any reason:
 1. The professors  
 2. The TAs  
 3. Your team members  
 
-No one else should look at your code for any reason.
+In the case where code is found to have been shared between teams, all teams involved will
+be treated as having violated the academic integrity policy. People who shared their code
+will receive the same penalty as people who received the code.
 
 Acceptable collaboration between teams is allowed. However, as a general rule, all collaboartion should be "pencils down". That is, if 
 you are being so specific in your discussion that you feel you need to write something down, you are probably being too specific. You can,
 however, discuss any of the following:
-* General algorithms/data structures to use for some part of the function  
+* General algorithms/data structures to use for some part of the function   
 * Design strategies for the assignment  
 * External libraries you found helpful.  
 
-Submissions in this course will be checked using cheat detection software. If it is found that you shared code, **intentionally or unintentionally** with
-another team.
+Submissions in this course will be checked using cheat detection software. If it is found
+that you shared code, **intentionally or unintentionally** with any member of another team.
+
+Ignorance of these rules will not be accepted as a defense for violating them.
 
 ### Homework external resources policy
-**You are allowed to use external resources** like StackOverflow, Geeksforgeeks, etc. for looking up help with **individual parts** of your assignments (such
-as how to read a JSON file in Java, etc.). However, **you may not copy large portions of external source code** from online. If
-you find you are copying more than 5 lines or so, you should stop. **All external references must be cited!** Do not "forget" to cite your
-sources. If it's found your team and another team submitted nearly identical code, and neither of you cited the external source,
-both teams will be considered to have copied from one another.
+
+**You are allowed and encouraged to use external resources** like StackOverflow, 
+Geeksforgeeks, etc. for looking up help with **individual parts** 
+of your assignments (such as how to read a JSON file in Java, etc.). Professional
+programmers look up syntax, library and class usage examples, etc. all of the time.
+
+However, **you may not copy large portions of external source code** from online. 
+If you find you are copying more than 8 lines or so, you should stop. 
+
+**All external references must be cited!**
 
 ### How to Cite Code
-{: .no_toc }
+
+
 Use the following format as an example citing code you use. You may not have all of these fields available, but this should give you a good idea of things to look for.  Order by title of the software package.  Use the appropriate commenting format for the programming language of your source code.  Below is a genearl example of a citation format.  Does yours have to look *exactly* like this?  No, nor does it have to have all the fields.  It does have to have enough to give the proper credit and so we can find the resource if needed.
 
 ```
@@ -254,25 +391,30 @@ that in your code.
 //  Description: <what you got help with, be very specific with line numbers>
 ```
 
+**Forgetting to cite your code with your sources** is not a defense against an academic
+integrity violation, and will not be accepted as such. Ignorance of the rules
+will not be accepted as a defense for violating them.
+
 ### Homework academic honesty violations
 
 If it is found your submission violates our policies outline above, you will receive the following penalties:
 
-**1st offense:** 0 on the assignment, plus an additional subtractive deduction to your final course grade up to 10% depending on severity.
-**2nd offense:** F in the course
+* **1st offense:** 0 on the assignment, plus an additional subtractive deduction to your final course grade up to 10% depending on severity.
+
+* **2nd offense:** F in the course
 
 Depending on severity and at instructor discretion, you may be referred to Honor Committee for any violation, including the first.
 
 ## Quizzes
 
-There will be occassional quizzes in the class which are meant to ensure basic understanding of the course lecture material.
+There will be occasional quizzes in the class which are meant to ensure basic understanding of the course lecture material.
 Quizzes will be posted on Collab, and are multiple choice. Quizzes are graded in a pass/fail way. Any score >= 80% is considered a
 passing score. Any score below 80% is considered a fail. **Quizzes can be taken as many times as needed** to achieve the target score.
 
 You will be able to see your total quiz score after submitting. However, you won't see specifically what you got right/wrong, or the correct
 answer until after the quiz closes.
 
-If you pass at least 7 quizzes, you will be given 100% credit for the quiz portion of the grade.
+If you pass at least 8 quizzes, you will be given 100% credit for the quiz portion of the grade.
 
 Quizzes are **individual assignments**. Collaboration/working together (even with assignment team members for homeworks) is strictly prohibited.
 If collaboration is discovered, it will result in all parties involved receiving a zero on their entire quiz grade for the course.
@@ -281,14 +423,12 @@ If collaboration is discovered, it will result in all parties involved receiving
 
 There will be two non-cumulative midterms during the course.
 
-Midterm 1: Tuesday, September 29, 2022, in-class
-    -Covers all material from start of class up to and including September 22
-Midterm 2: Thursday, November 3, 2022, in-class
-    -Covers all material from September 29 up to and including November 1
+* Midterm 1: Tuesday, September 27, 2022, in-class
+    * Covers all material from start of class up to and including September 22
+* Midterm 2: Thursday, November 3, 2022, in-class
+    * Covers all material from September 29 up to and including November 1
 
 If you know you will be absent for an exam, you must let your professor know with at least **1-week's notice**. 
-
-Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. Those with extended time or other accommodations should contact your professor to discuss them during the first two weeks of the class.
 
 ## Cumulative Final Exam
 
@@ -310,56 +450,160 @@ Any requests for make-ups due to illness must be made through your Dean, and we 
 
 Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. Those with extended time or other accommodations should contact your professor to discuss them during the first two weeks of the class.  
 
+### Exam rules
+
+Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. 
+Those with extended time or other accommodations should contact your professor to 
+discuss them during the first two weeks of the class.
+
+Make-up exams due to known conflicts must be scheduled **at least one full calendar week in
+advance**.
+
+If you are unable to attend an exam
+
+### Exam Curves
+
+The course is intended to have difficult exams *that will be curved*. However, the exact
+nature of the curve will be determined after the exam is graded. The curve will not benefit
+all students equally. Generally, the curving method used benefit scores closer to the average
+more than it will benefit those whose scores are signficantly above or below average.
+
+Scores will never be curved downward. However, not everyone's score is guaranteed to increase
+as a result of the curve.
+
+**The purpose of a curve is to adjust exam scores based on the authentic difficulty of the exam.**
+The curve does not exist to artificially inflate scores.
+
+The curved scores will be posted on Collab (not Gradescope) usually within 24 hours of the raw
+exam scores being posted.
+
+Regrade requests on Exams that result in points changes will be reflected in the curved scores
+on Collab. **However, it may take up to one week for curved scores to be updated.**
+
+## Regrade Requests
+
+Regrade Requests can be submitted on Gradescope within one week of an assignment's scores
+being posted. Regrade requests cannot be accepted for any reason after the regrade request
+deadline.
+
+Regrade requests can result in your entire assignment being regraded. If,
+for example, during a regrade request, you find you should have received a deduction
+and you mistakenly did not, a regrade request could result in you losing points. We
+do not try to find reasons to deduct more points when you submit a regrade request, but
+you should be aware of the possibility.
+
+Regrade requests should be written **professionally and respectfully**. Understand that
+with a class of several hundred students, there *will* be grading errors. None of the
+course staff are trying to make errors, however they will happen. Regrade requests should
+explain how you feel the existing rubric was applied wrong in a calm and respectful tone.
+Insults, profanity, and unprofessional language will result in a professionalism deduction
+to your final course grade, and your regrade request being declined.
+
+Regrade requests are for when **the existing rubric was applied incorrectly**. The following
+will be considered frivolous regrade requests:
+* Arguing that the rubric should be changed
+* Arguing the existing rubric took too many points away
+* Arguing for partial credit when your submitted code does not compile or run without crashing
+* Asking for additional points to reach a grade threshold
+
+Repeated frivolous regrade request can result:
+* All future regrade requests being declined without examination
+* A professionalism deduction to your final grade
+
+---
+
 # Class Management
 
 ## Attendance
-{: .no_toc }
-* No attendance will be taken during the live lectures sessions on Tuesdays and Thursdays.  
+
+* No attendance will be taken during the live lectures sessions on Tuesdays and Thursdays.
+* In person attendance is required for exams unless you have made other arrangements
 * Students are encouraged to attend the section they registered for. However, you may attend the other section's lecture occassionally as needed.
-* Zoom sessions will be recorded and made available through the Online Meetings tool in Collab.  **However, recordings will not include material written on the board, and may lose audio when the speaker needs to walk away from the microphone**
-  * Recordings are not an alternative to attending class
+* Lecture sessions recorded and made available through the Lecture Recordings tool in Collab.  
+  * However, recordings will not include material written on the board, 
+  * Recordings may lose audio when the speaker needs to walk away from the microphone
+  * Recordings are not an alternative to attending class, and this class is not meant to be taken remotely
 
 ## This Syllabus
+
 {: .no_toc }
-This syllabus is to be considered a reference document that can and will be adjusted through the course of the semester to address changing needs. This syllabus can be changed at any time without notification. It is up to the student to monitor this page for any changes. Final authority on any decision in this course rests with the professor, not with this document.
+This syllabus is to be considered a reference document that can and will be adjusted 
+through the course of the semester to address changing needs. This syllabus can be 
+changed at any time. Significant changes will be announced. It is up to the student to monitor 
+this page and their announcements for any changes. 
+Final authority on any decision in this course rests with the professor, not with this document.
 
 ## Professionalism
-{: .no_toc }
+
 In this course, there will be a focus on working well together and learning about the development process. A large portion of that process involves interpersonal skills and conflict management. Students and staff are all expected to treat each other with respect.  This includes, but certainly is not limited to:
 
-* Misuse of class platforms (Discord, Piazza, YouTube comments, etc.)
+* Misuse of class platforms (Piazza, Github, etc.)
 * Disrespectful language or actions to course staff or other students
-* Promptness for all deadlines and class meetings
-* Quality work
-* Not working well with your partners
-* Collaborating with other teams
-* Not following University health regulations
+* Disrupting lecture or office hours with another student
+* Professionally written work. All written answers should be in complete sentences and written for a professional college setting.
+* Not participating in work with your partners (such as no commits, missing scheduled meetings, etc.)
+* Unauthorized collaborating with other teams
 
-Students can and will be penalized for unprofessional behavior with deductions to their final grade.
+Students can be penalized for unprofessional behavior with deductions to their final grade.
+Deductions will be based on the severity and frequency of unprofessional behavior and may
+range up to and including an 100% grade deduction in the course in extreme cases.
 
 ## Academic Integrity
-{: .no_toc }
+
 _Summary_:
 
 * Know the honor code
 * Work with your team, but not any other team
 * Using code from other students (from any semester) is an honor violation
 * Using publicly-available example code and libraries is fine, but you must cite your resources
+* Posting any of yours or a classmate's work from homework, quizzes, or exams publicly anywhere on the internet is an honor violation
+  * This includes your public Github Profile, Chegg, StackOverflow, CourseHero, etc. - This is strictly prohibited!
 * More information on what is allowed will be included with each assignment if necessary
 * It never hurts to ask the staff what is allowed or not allowed!
 
-The School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, nor shall they tolerate those who do. We recognize that even one honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of honor will benefit every member of the community both while enrolled in the Engineering School and in the future. 
+The School of Engineering and Applied Science relies upon and cherishes its community 
+of trust. We firmly endorse, uphold, and embrace the University’s Honor principle 
+that students will not lie, cheat, or steal, nor shall they tolerate those who do. 
+We recognize that even one honor infraction can destroy an exemplary reputation that 
+has taken years to build. Acting in a manner consistent with the principles of honor w
+ill benefit every member of the community both while enrolled in the Engineering 
+School and in the future. 
 
-Students are expected to be familiar with the university honor code, including the section on academic fraud [http://honor.virginia.edu/academic-fraud](http://honor.virginia.edu/academic-fraud). Assessments will describe allowed collaborations, and deviations from these will be considered Honor violations. If you have questions on what is allowable, ask! Unless otherwise noted, all assessments will be considered pledged that you have neither given nor received help. (Among other things, this means that you are not allowed to describe problems on an exam, assignment, or project to a student who has not taken it yet. You are not allowed to show exam papers to another student or view another student’s exam papers while working on an exam.) Sending, receiving, or otherwise copying or describing the contents of electronic files that are part of course assignments are not allowed collaborations (except for those explicitly allowed in assignment instructions). 
+Students are expected to be familiar with the university honor code, including the 
+section on academic fraud [http://honor.virginia.edu/academic-fraud](http://honor.virginia.edu/academic-fraud). 
+Assessments will describe allowed collaborations, and deviations from these will be 
+considered Honor violations. If you have questions on what is allowable, ask! 
+Unless otherwise noted, all assessments will be considered pledged that you have 
+neither given nor received help. (Among other things, this means that you are not 
+allowed to describe problems on an exam, assignment, or project to a student who 
+has not taken it yet. You are not allowed to show exam papers to another student 
+or view another student’s exam papers while working on an exam.) Sending, 
+receiving, or otherwise copying or describing the contents of electronic files 
+that are part of course assignments are not allowed collaborations (except for 
+those explicitly allowed in assignment instructions). 
 
-Assignments or exams where honor infractions or prohibited collaborations occur will receive a zero grade for that entire assignment or exam. Such infractions will also be submitted to the Honor Committee if that is appropriate. Students who have had prohibited collaborations may not be allowed to work with partners on remaining homeworks. 
+Assignments or exams where honor infractions or prohibited collaborations 
+occur will receive a zero grade for that entire assignment or exam. Such 
+infractions will also be submitted to the Honor Committee if that is 
+appropriate. Students who have had prohibited collaborations may not be allowed to 
+work with partners on remaining homeworks. 
 
-For CS3140, using code developed by previous students in the course or code written for your use by someone outside the course is not allowed and will likely be an honor violation. This does not apply to the use of publicly available frameworks and libraries, unless indicated in the assessment instructions.
+For CS3140, using code developed by previous students in the course or code written 
+for your use by someone outside the course is not allowed and will likely be an 
+honor violation. This does not apply to the use of publicly available frameworks 
+and libraries, unless indicated in the assessment instructions.
 
-In general, we expect that you will be using code, examples, and ideas from many different websites and resources for your projects.  This is allowed within reason.  Wholesale copying of an entire project or any major feature from any source (the web, another student, etc.) is definitely not allowed.  Using code snippts that you find to round out a feature is allowed.  If you ever have a question about what is or is not appropriate, ask first!
+In general, we expect that you will be using code, examples, and ideas from many 
+websites and resources for your homeworks.  This is allowed within reason.  
+Wholesale copying of an entire project or any major feature from any source 
+(the web, another student, etc.) is definitely not allowed.  Using code snippets 
+that you find to round out a feature is allowed **with citation**. 
+If you ever have a question about what is or is not appropriate, ask first!
 
-In ALL cases, you need to cite all sources at the top of the file where the code or algorithm was used AND you should note all sources in your documentation.  Failure to properly attribute your sources will result in a 50% penalty for the project at a minimum.
-
+In ALL cases, you need to cite all sources within the code where the code or 
+algorithm was used  Failure to properly attribute your sources will result in 
+a deductions up to 100% on assignments, and be considered an academic integrity
+violation in the worst case.
 
 # Miscellaneous Policies
 {: .no_toc }
@@ -391,4 +635,13 @@ The University of Virginia is dedicated to providing a safe and equitable learni
  
 If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available - [www.virginia.edu/sexualviolence](http://www.virginia.edu/sexualviolence). 
  
-As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and federal law to report what you tell me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also reviewing the information presented to determine whether further action is necessary to ensure survivor safety and the safety of the University community. If you would rather keep this information confidential, there are Confidential Employees you can talk to on Grounds (See [http://www.virginia.edu/justreportit/confidential_resources.pdf](http://www.virginia.edu/justreportit/confidential_resources.pdf)). The worst possible situation would be for you or your friend to remain silent when there are so many here willing and able to help.
+As your professor and as a person, know that I care about you and your well-being 
+and stand ready to provide support and resources as I can. As a faculty member, 
+I am a responsible employee, which means that I am required by University policy 
+and federal law to report what you tell me to the University's Title IX Coordinator. 
+The Title IX Coordinator's job is to ensure that the reporting student receives the 
+resources and support that they need, while also reviewing the information presented 
+to determine whether further action is necessary to ensure survivor safety and the 
+safety of the University community. If you would rather keep this information confidential, 
+there are Confidential Employees you can talk to on Grounds (See [http://www.virginia.edu/justreportit/confidential_resources.pdf](http://www.virginia.edu/justreportit/confidential_resources.pdf)). The worst possible situation would be for you or your friend to 
+remain silent when there are so many here willing and able to help.
