@@ -313,14 +313,26 @@ Rules on assignment teams:
 
 ### Late Policy
  
-Most assignments may be submitted up to one week late at a penalty of 7% per calendar day (note that this penalty is subtractive, meaning if you score 85%, but it is one day late, you will get 78%).
-All members of an assignment team will get the same late penalty, regardless of contribution (as all members of an assignment team get the same grade on the assignment). After 7 days, submissions will be accepted at 50% off until the end of the term. However, submissions more than one week late will not be graded until the end of the term.
+Most assignments may be submitted up to one week late at a penalty of 7% per 24 hour period. 
+(note that this penalty is subtractive, meaning if you score 85%, but it is one day late, 
+you will get 78%).
+All members of an assignment team will get the same late penalty, 
+regardless of contribution (as all members of an assignment team get the 
+same grade on the assignment). 
 
-Homework 7 will have a separate late policy - no late submissions after the start of final exams. 
+After 7 days, submissions will be accepted at 65% off until December 6th at 11:59 p.m. with
+the exception of Homework 7 (see below). Submissions more than one week late may not be 
+graded until the end of the term.
+
+Homework 7 will have a separate late policy - no late submissions after 
+Friday, December 9th, at 11:59 p.m. for any reason. 
    1. This is in order to ensure:
       1. TAs have time to grade the final assignment
       2. Students have time to study for the final exam
    2. In order to ensure students have time to study for final exams
+
+We will only ever grade your most recent submission. We will not grade multiple submissions and give
+you the best score.
 
 Generally, no extension requests will be granted on assignments. This is because each assignment is 
 laddered with specific course content. Additionally, new assignments are released when 
