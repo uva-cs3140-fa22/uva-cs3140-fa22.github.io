@@ -449,7 +449,7 @@ The course final exam is cumulative, covering all material from the semester. Th
 The final exams scheduled for:
 
 * **12:30 p.m. Section (McBurney):** Monday, December 12, 2-5p.m.  
-* **02:00 p.m. Section (Nguyen):** Saturday, December 8, 9a.m. to 12 noon
+* **02:00 p.m. Section (Nguyen):** Thursday, December 8, 9a.m. to 12 noon
 
 **You must attend the section you are registered for**. If you attend the wrong final exam section, your final exam will be given a zero.
 
