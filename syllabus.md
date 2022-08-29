@@ -48,7 +48,10 @@ Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/
 
 __Instructor:__ Prof. Richard Nguyen  
 Office: Rice 202   
-Office Hours: TBD  
+Office Hours:
+* Tue and Thu 10a-11a in Rice 202
+* Mon and Wed 10a-11a on [Zoom](https://virginia.zoom.us/j/97207405703?pwd=cXpjNWEwSVRFZGV5aDlOU0QxNXZydz09)
+
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)    
 Website: [https://www.cs.virginia.edu/~nn4pj/](https://www.cs.virginia.edu/~nn4pj/)    
 
