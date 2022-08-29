@@ -12,9 +12,9 @@ subject to change.
 
 * **Posted**: Thursday, August 30th by 12 noon.
 * **Due**: 
-  * Part A: Friday, September 3rd at 11:59 p.m.
-    * Will not be marked late until Tuesday, September 6th for people who add the course late.
-  * Part B: Thursday, September 8th at 11:59 p.m.
+  * Part A: Monday, September 5th at 11:59 p.m.
+    * Will not be marked late until Wednesday, September 7th for people who add the course late.
+  * Part B: Friday, September 9th at 11:59 p.m.
 
 **Assignment**: Apportion representatives in the US House or Representatives based on Census Data
 
@@ -25,7 +25,7 @@ subject to change.
 * Planning for change
 
 ## Homework 1C
-* **Posted**: Friday, September 9th by 12 noon
+* **Posted**: Friday, September 9th at 11:59 p.m.
 * **Due**: Thursday, September 15th at 11:59 p.m. 
 
 **Assignment**: Evolve your Java program to respond to new requirements, adding new features to Homework 1

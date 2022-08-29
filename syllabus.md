@@ -14,13 +14,12 @@ nav_order: 2
 {:toc}
 
 # Basic Info
+CS 3140
+Fall 2022 Semester   
 
-CS 3240 - Software Development Essentials
-**SDE** for short
+Course Website - [https://cs3140.com](https://cs3140.com)
 
-Fall 2022 Semester  
-
-Course Logistics: 
+Course Logistics:
 [https://cs3140.com](https://cs3140.com)
 
 
@@ -29,6 +28,7 @@ Online Textbook:
 
 Drive Folder:
 [https://drive.google.com/drive/folders/1PnTRphKY5adKNRX_XDCGI1djVgW68uwH?usp=sharing](https://drive.google.com/drive/folders/1PnTRphKY5adKNRX_XDCGI1djVgW68uwH?usp=sharing)
+
 
 ## Lecture Sections
 Section 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in Newcomb Hall Theater
@@ -40,22 +40,23 @@ __Instructor:__ Prof. Will McBurney
 Office: Rice 404  
 Office Hours:
 * Mondays 10:30 a.m. to Noon
-* Wednesdays 1:30 p.m. to 3p.m.
-
-Email: [mcburney@virginia.edu](mcburney@virginia.edu)      
-
+* Wednesdays 1:30 p.m. to 3p.m.      
+Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
 
 __Instructor:__ Prof. Richard Nguyen  
 Office: Rice 202   
-Office Hours:
-* Tue and Thu 10a-11a in Rice 202
-* Mon and Wed 10a-11a on [Zoom](https://virginia.zoom.us/j/97207405703?pwd=cXpjNWEwSVRFZGV5aDlOU0QxNXZydz09)
-
+Office Hours: TBD  
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)    
 Website: [https://www.cs.virginia.edu/~nn4pj/](https://www.cs.virginia.edu/~nn4pj/)    
 
-__Teaching Assistants:__ 
+__Teaching Assistants:__ TBD  
+
+# Communication and Logistics
+
+## Online Coursepack and YouTube Channel
+
+Online Coursepack @ [https://sde-coursepack.github.io/](http://sde-course.com/)
 
 *posted soon*
 
@@ -67,26 +68,41 @@ A first course in software engineering and software construction, this course fo
 {: .no_toc }
 Upon completion of this course students will:
 
-* coming soon
+* Building larger object-oriented programs 
+* Understanding software build environment (IDEs, Build tools, etc.)
+* Working collaboratively and asynchronously with others 
+* Iterative development 
+* Designing functional and object oriented systems 
+* Front-end and back-end development 
+* Software Architectural and object-oriented design patterns, and when to use them
+
 
 ### Course Topics
 {: .no_toc }    
 The topics to be covered in the course include:
 
-* Coming soon
+* Continued development in the Java programming language
+* Programmer tools like gradle and git
+* Writing clean, understandable, testable code
+* Automated testing, including unit and integration testing
+* Software design principles
+* Software Architectures, including 3-Layer architecture
+* Software Design Patterns
+* GUI and Event-driven programming with JavaFX
+* Database management with SQLite
 
 ## Course Requirements
-{: .no_toc }
+
 You should meet the following requirements to take this class:
 
 1. __Prerequisite: CS 2100 - C- or higher
 2. __Prerequisite knowledge: Proficiency with the Java programming language, including:
-    1. Basic java syntax around variables, functions, conditionals, and loops
-    2. Understanding of object oriented programming, including creating your own classes, polymorphism (inheritance and interfaces), the Object class
-    3. Common data structures, especially List (ArrayList and LinkedList), Map (HashMap), Set (HashSet, TreeSet)
+   1. Basic java syntax around variables, functions, conditionals, and loops
+   2. Understanding of object oriented programming, including creating your own classes, polymorphism (inheritance and interfaces), the Object class
+   3. Common data structures, especially List (ArrayList and LinkedList), Map (HashMap), Set (HashSet, TreeSet)
 3. Willing to attend and participate with in-person lectures.
 4. Start homework assignments early, and emphasize working incrementally over several days rather than cramming.
-5. Participate to the best of your ability in discussions in class, or on Piazza
+5. Participate to the best of your ability in discussions in class, on Discord, or on Piazza
 6. Be a meaningful contributor to your assignment team.
 
 
@@ -364,7 +380,7 @@ In the case where code is found to have been shared between teams, all teams inv
 be treated as having violated the academic integrity policy. People who shared their code
 will receive the same penalty as people who received the code.
 
-Acceptable collaboration between teams is allowed. However, as a general rule, all collaboartion should be "pencils down". That is, if 
+Acceptable collaboration between teams is allowed. However, as a general rule, all collaboration should be "pencils down". That is, if 
 you are being so specific in your discussion that you feel you need to write something down, you are probably being too specific. You can,
 however, discuss any of the following:
 * General algorithms/data structures to use for some part of the function   
@@ -381,7 +397,7 @@ Ignorance of these rules will not be accepted as a defense for violating them.
 **You are allowed and encouraged to use external resources** like StackOverflow, 
 Geeksforgeeks, etc. for looking up help with **individual parts** 
 of your assignments (such as how to read a JSON file in Java, etc.). Professional
-programmers look up syntax, library and class usage examples, etc. all of the time.
+programmers look up syntax, library and class usage examples, etc. all the time.
 
 However, **you may not copy large portions of external source code** from online. 
 If you find you are copying more than 8 lines or so, you should stop. 
@@ -559,12 +575,10 @@ In this course, there will be a focus on working well together and learning abou
 * Not participating in work with your partners (such as no commits, missing scheduled meetings, etc.)
 * Unauthorized collaborating with other teams
 
-Students can be penalized for unprofessional behavior with deductions to their final grade.
-Deductions will be based on the severity and frequency of unprofessional behavior and may
-range up to and including an 100% grade deduction in the course in extreme cases.
+Students can and will be penalized for unprofessional behavior with deductions to their final grade.
 
 ## Academic Integrity
-
+{: .no_toc }
 _Summary_:
 
 * Know the honor code
@@ -620,26 +634,68 @@ algorithm was used  Failure to properly attribute your sources will result in
 a deductions up to 100% on assignments, and be considered an academic integrity
 violation in the worst case.
 
-# Miscellaneous Policies
-{: .no_toc }
+## Miscellaneous Policies
 
-## Inclement Weather Policy
-{: .no_toc }
+### Inclement Weather Policy
+
 If there is the possibility of inclement weather that could affect class, it is your responsibility to stay informed.  Information about how to sign up for email and/or text alerts from UVA Emergency Management, along with the current University status, can be found at [https://uvaemergency.virginia.edu/](https://uvaemergency.virginia.edu/).
 
-## SDAC and Other Special Circumstances
-{: .no_toc }
-The University of Virginia strives to provide accessibility to all students. If you require an accommodation to fully access this course, please contact the Student Disability Access Center (SDAC) at 434-243-5180 or [sdac@virginia.edu](mailto:sdac@virginia.edu). If you are unsure if you require an accommodation, or to learn more about their services, you may contact the SDAC at the number above or by visiting their website at [http://studenthealth.virginia.edu/student-disability-access-center/faculty-staff](http://studenthealth.virginia.edu/student-disability-access-center/faculty-staff).
+### SDAC and Other Special Circumstances
 
-If you have been identified as an SDAC student, please let the SDAC know you are taking this class.  We happily and discretely provide the recommended accommodations for those students identified by the SDAC. Please contact us one week before an exam so we can make accommodations.
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, 
+materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore 
+potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a 
+range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC 
+advisor, Courtney MacMasters, physically located in Engineering. You may email her 
+at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please 
+visit the SDAC website: [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu).
+
+If you have already been approved for accommodations through SDAC, please send your instructor your accommodation letter 
+as soon as possible. We happily and discretely provide the recommended accommodations for those students identified by the SDAC. 
+For quizzes, we cannot grant extensions, as the quiz solutions are released at the due time.  For team homework assignments, 
+we cannot grant significant accommodations to deadlines for an entire team due to accommodations of individuals on the team. 
+However, we can discuss with you the best way to integrate with your team with your accommodations 
+in consideration. Please make an appointment with your instructor outside of office hours to have this discussion.
 
 If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class.
 
-## Religious Accommodations
-{: .no_toc }
-It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me by email as far in advance as possible. Students and instructors who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at [UVAEOCR@virginia.edu](UVAEOCR@virginia.edu) or 434-924-3200. 
+### Religious Accommodations
 
-Accommodations do not relieve you of the responsibility for completion of any part of the coursework missed as the result of a religious observance.
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
+
+Students who wish to request academic accommodation for a religious observance should submit their request to their instructor by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at [UVAEOCR@virginia.edu](mailto:UVAEOCR@virginia.edu) or 434-924-3200.
+
+Accommodations do not relieve you of the responsibility for completion of any part of the coursework - including homework assignments - missed as the result of a religious observance.
+
+### Support for Career Development
+{: .no_toc }
+Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. We wish to encourage and support you in activities related to your career development. To that end, please notify your instructor by email as far in advance as possible to arrange for appropriate accommodations.
+
+### Student Support Team
+{: .no_toc }
+You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!
+
+__NOTE:__ These resources are available for BACS majors as well!  You are still a part of our department!
+
+### Learning
+{: .no_toc }
+* [Lisa Lampe](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Education
+* [Blake Calhoun](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success
+* [Courtney MacMasters](mailto:cmacmasters@virginia.edu), Accessibility Specialist
+* [Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes
+
+### Health and Wellbeing
+{: .no_toc }
+* [Assistant Dean of Students](https://engineering.virginia.edu/about/offices/office-graduate-programs/student-support-services#accordion716460), Student Safety and Support
+* Elizabeth Ramirez-Weaver, CAPS counselor
+* Katie Fowler, CAPS counselor
+
+You may schedule time with the CAPS counselors through [Student Health](https://www.studenthealth.virginia.edu/getting-started-caps). When scheduling, be sure to specify that you are an Engineering student or College student. You are also urged to use [TimelyCare](https://www.studenthealth.virginia.edu/timelycare) for either scheduled or on-demand 24/7 mental health care.
+
+### Community and Identity
+{: .no_toc }
+The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
+
 
 ## Statement on Violence
 {: .no_toc }
@@ -660,3 +716,6 @@ to determine whether further action is necessary to ensure survivor safety and t
 safety of the University community. If you would rather keep this information confidential, 
 there are Confidential Employees you can talk to on Grounds (See [http://www.virginia.edu/justreportit/confidential_resources.pdf](http://www.virginia.edu/justreportit/confidential_resources.pdf)). The worst possible situation would be for you or your friend to 
 remain silent when there are so many here willing and able to help.
+
+As your professors and as people, know that we care about you and your well-being and stand ready to provide support and resources as we can. As faculty members, we are a responsible employee, which means that we are required by University policy and by federal law to report certain kinds of conduct that you report to us to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community. 
+
