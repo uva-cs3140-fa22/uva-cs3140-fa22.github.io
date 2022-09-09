@@ -25,7 +25,7 @@ subject to change.
 * Planning for change
 
 ## Homework 1C
-* **Posted**: Friday, September 9th at 11:59 p.m.
+* **Posted**: Friday, September 9th at 11:59 a.m.
 * **Due**: Thursday, September 15th at 11:59 p.m. 
 
 **Assignment**: Evolve your Java program to respond to new requirements, adding new features to Homework 1
