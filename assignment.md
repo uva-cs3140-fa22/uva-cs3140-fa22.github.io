@@ -54,8 +54,8 @@ and write tests for a planned featured.
 ---
 
 ## Homework 3
-* **Posted**: Thursday, September 29th by 12 noon
-* **Due**: Thursday, October 13th at 11:59 p.m.
+* **Posted**: Friday, September 30th by 12 noon
+* **Due**: Friday, October 14th at 11:59 p.m.
 
 **Assignment**: Given a professor written solution to Homework 1B,
 reimplement Homework 1C adhering to design constraints. Refactor
