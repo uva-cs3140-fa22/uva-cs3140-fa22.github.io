@@ -107,7 +107,7 @@ Note that this assignment is released while we are covering JavaFX. However, you
 * **Posted**:  Thursday, November 10th, by noon
 * **Due**: Tuesday, November 22nd, by 11:59 p.m.
 
-**Assignment**: TBD
+**Assignment**: Building the Business Logic Layer and the Data Layer of a replacement for the Lou's List Application
 
 **Topics**:
 * Web APIs and JSON
