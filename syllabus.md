@@ -41,7 +41,7 @@ Office: Rice 404
 Office Hours:
 * Mondays 3:30 a.m. to 5:00 p.m.
 * Wednesdays 1:30 p.m. to 3:00 p.m.   
-* Fridays 2:30 p.m. to 4:00 p.m.
+* Fridays 2:30 p.m. to 4:00 p.m.  
 Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
 
