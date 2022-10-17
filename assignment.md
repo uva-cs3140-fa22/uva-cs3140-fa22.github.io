@@ -54,8 +54,8 @@ and write tests for a planned featured.
 ---
 
 ## Homework 3
-* **Posted**: Thursday, September 29th by 12 noon
-* **Due**: Thursday, October 13th at 11:59 p.m.
+* **Posted**: Friday, September 30th by 12 noon
+* **Due**: Friday, October 14th at 11:59 p.m.
 
 **Assignment**: Given a professor written solution to Homework 1B,
 reimplement Homework 1C adhering to design constraints. Refactor
@@ -66,23 +66,24 @@ for an unfinished feature.
 * Understandability and Refactoring
 * Practical usage of polymorphism
 * Java Streams and Lambda Bodies
-* Testing with Mockit
 * Starting to nail down what we mean by "good design"
 
 ---
 
 ## Homework 4
-* **Posted**: Thursday, October 13th, by noon
-* **Due**: Thursday, October 27th at 11:59p.m.
+* **Posted**: Friday, October 14th, by noon
+* **Due**: Friday, October 28th, at 11:59p.m.
 
-**Assignment**: TBD
+**Assignment**: Begin developing the Business Logic of a Course Registration System.
+You won't have real data, so you will need to use Mockito to help you develop.
 
 **Topics**:
-* OO Decomposition
-* UML Class Diagrams
+* Testing with Mockito
+* OO Design Principles
 * Refactoring/Rewriting code to fix design issues
-* Three-Layer architecture
-* Adding new feature
+* UML Class Diagrams
+
+
 
 ---
 
@@ -92,6 +93,8 @@ for an unfinished feature.
 
 **Assignment**: Implement an alternative GUI for a completed
 command line UI Wordle Game from HW2 using JavaFX
+
+Note that this assignment is released while we are covering JavaFX. However, you will still have two weeks after Homework 4 to complete it.
 
 **Topics**:
 * JavaFX
@@ -104,7 +107,7 @@ command line UI Wordle Game from HW2 using JavaFX
 * **Posted**:  Thursday, November 10th, by noon
 * **Due**: Tuesday, November 22nd, by 11:59 p.m.
 
-**Assignment**: TBD
+**Assignment**: Building the Business Logic Layer and the Data Layer of a replacement for the Lou's List Application
 
 **Topics**:
 * Web APIs and JSON
