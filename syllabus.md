@@ -255,6 +255,27 @@ in a class this large.
 
 # Assessment and Grading
 
+| Grade | Minimum Percentage | CR/NC |
+|-------|--------------------|-------|
+| A     | 93.0%              | CR    |
+| A-    | 90.0%              | CR    |
+| B+    | 87.0%              | CR    |
+| B     | 83.0%              | CR    |
+| B-    | 80.0%              | CR    |
+| C+    | 77.7%              | CR    |
+| C*    | 70.0%              | CR    |
+| D+    | 67.0%              | GC    |
+| D     | 63.0%              | GC    |
+| D-    | 60.0%              | GC    |
+| F     | 0.0%               | NC    |
+
+
+`* note that this is an adjustment for the Fall 2022 semester *only* to
+remove the C- grade. In other semesters, C requires a 73%, and 70% to 72.99% is a C-
+
+_There is **no** grading rounding_.
+
+
 Grading in this class will be based one:
 * Homework Assignments (7) - 60%  
 	* 8% each for Homework 1 through 6
